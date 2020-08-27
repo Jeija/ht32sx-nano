@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="sigfoxlogo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg861"
+   version="1.1"
+   viewBox="0 0 25.367775 27.935167"
+   height="27.935167mm"
+   width="25.367775mm">
+  <defs
+     id="defs855" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="98.443455"
+     inkscape:cx="38.106902"
+     inkscape:zoom="2.8"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata858">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-92.316112,-26.091433)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5861px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="98.226349"
+       y="53.164413"
+       id="text906"><tspan
+         sodipodi:role="line"
+         x="98.226349"
+         y="53.164413"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan908">sigfox</tspan></text>
+    <g
+       transform="translate(65.472569)"
+       id="g1447">
+      <ellipse
+         inkscape:transform-center-y="-1.1297896"
+         inkscape:transform-center-x="-0.29740088"
+         transform="matrix(-0.69252857,-0.72139045,-0.8620626,0.5068018,0,0)"
+         ry="4.2867088"
+         rx="13.826858"
+         cy="-1.7545063"
+         cx="-52.049828"
+         id="path826-3-6"
+         style="opacity:0.98;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.811083;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 39.757902,33.014201 v 11.012881 0.012 0 m -7.392295,2.62611 c -2.040925,-1.19984 0.591679,-6.63828 5.880083,-12.14708 m 0,0 c 0.524422,-0.546281 1.512932,-1.50994 1.512932,-1.50994 l 3.17e-4,11.01569 c -3.325434,2.39534 -6.081555,3.41251 -7.393325,2.64133"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4595-6" />
+      <path
+         sodipodi:nodetypes="cscscc"
+         inkscape:connector-curvature="0"
+         d="m 39.757902,33.014201 c 0,0 0.30799,-0.292849 0.43848,-0.413609 4.72528,-4.372771 9.52697,-6.939231 11.31953,-5.885381 2.04092,1.19985 -0.55652,6.67226 -5.88009,12.147091 -0.41814,0.43002 0,0 -0.41814,0.43002 -2.14817,-2.94118 -3.1553,-3.941281 -5.45978,-6.278121 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4595-1-2" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name HT32SX)(type Legacy)(uri "${KIPRJMOD}/lib/iMCP HT32SX.lib")(options "")(descr ""))
+  (lib (name MIC5239)(type Legacy)(uri ${KIPRJMOD}/lib/mic5239-3.3ymm.lib)(options "")(descr ""))
+)
